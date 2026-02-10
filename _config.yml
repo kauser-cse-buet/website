@@ -54,22 +54,19 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Md Kauser Ahmmed"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Kauser"
+  avatar : "/assets/images/kauser_profile_pic.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://kauser-cse-buet.github.io/website"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/"
+      url: "https://scholar.google.com/citations?user=6ZZwiQ8AAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
@@ -79,9 +76,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _pages

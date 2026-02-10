@@ -55,7 +55,7 @@ plugins:
 
 author:
   name   : "Kauser"
-  avatar : "/assets/images/kauser_profile_pic.png"
+  avatar : "/assets/images/kauser.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"

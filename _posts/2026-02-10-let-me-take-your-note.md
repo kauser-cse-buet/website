@@ -1,3 +1,7 @@
+---
+title: "Let me take your note!"
+date: 2026-02-10T15:55:17-08:00
+---
 # Automating the Lecture Hall: A Python Tool for Background Note-Taking
 
 In the age of digital multitasking, keeping up with lectures, meetings, or long voice memos while trying to get other work done is a constant struggle. We’ve all been there: trying to type out what a speaker is saying while simultaneously checking emails or debugging code.

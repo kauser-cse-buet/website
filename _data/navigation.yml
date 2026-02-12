@@ -5,5 +5,7 @@ main:
     url: /experience/
   - title: "Publications"
     url: /publications/
+  - title: "Certificates"
+    url: /certificates/
   - title: "About"
     url: /about/

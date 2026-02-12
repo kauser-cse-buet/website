@@ -1,5 +1,5 @@
-Computer science researcher with a strong background in machine learning, data analysis, and large-scale software systems. Author of peer-reviewed publications in emotion modeling, protein structure prediction, and autonomous systems. Experienced software engineer with industry exposure to building scalable, secure, and data-intensive systems, with research interests spanning human-centric modeling, networked systems, and data-driven security.  
-Outside of work, I enjoy playing soccer and reading books, especially science fiction.
+Computer science researcher and passionate software engineer with a strong background in machine learning, data analysis, and large-scale software systems. My research interests lie at the intersection of human-centric AI, networked systems, and data-driven security. I have authored peer-reviewed publications in emotion modeling, protein structure prediction, and autonomous systems, and I bring industry experience building scalable, secure, and data-intensive software platforms.  
+Outside of research and engineering, I enjoy traveling, hiking, playing soccer, and reading books, especially science fiction.
 {: .notice--info}
 
 ## Recent Posts

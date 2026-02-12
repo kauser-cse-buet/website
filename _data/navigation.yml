@@ -1,4 +1,6 @@
 main:
+  - title: "About"
+    url: /about/
   - title: "Education"
     url: /education/
   - title: "Experience"
@@ -7,5 +9,3 @@ main:
     url: /publications/
   - title: "Certificates"
     url: /certificates/
-  - title: "About"
-    url: /about/
